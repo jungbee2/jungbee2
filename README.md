@@ -16,4 +16,4 @@ src ="https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&log
 <a href="mailto:jungb1203@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://open.kakao.com/o/s5O7I8mf"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a> 
 
-![Jungbee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungbee&show_icons=true&theme=default)
+![Jungbee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungbee2&show_icons=true&theme=default)
