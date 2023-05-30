@@ -1,7 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&fontSize=50&text=WELCOME👋&fontColor=CD5E77&color=F4C2C2)
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
-<img src="gmail-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/>
-</a>
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&fontSize=50&text=WELCOME👋&fontColor=CD5E77&color=F4C2C2)
+
+## 💻 My Stack
+<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>  <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+
+## 💻 ...
+<a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
+
 
 <!--
 **jungbee2/jungbee2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
