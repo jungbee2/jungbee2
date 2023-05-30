@@ -1,4 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&fontSize=50&text=WELCOME👋&fontColor=CD5E77&color=F4C2C2)
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
+<img src="gmail-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/>
+</a>
 
 <!--
 **jungbee2/jungbee2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
