@@ -25,14 +25,7 @@ src ="https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&log
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Premierepro-31A8FF?style=flat-square&logo=Adobe Premierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
- 
-  
-adobepremierepro   adobeaftereffects
-## ✨ Tool  
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-  
-  
+
 ## 📧 Contact 
 <a href="mailto:bin052512@gmail.com"><img src="https://img.shields.io/badge/google-4285F4?style=flat-square&logo=google&logoColor=white"/></a>
 <a href="mailto:jungb1203@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
